@@ -3,8 +3,8 @@ package main;
 public class main {
 	public static void main(String[] args) {
 		
-		char studentGrade='C';
-		System.out.println("studentGrade= "+studentGrade);
+		double carPrice=25000;
+		System.out.println("carPrice= "+carPrice);
 		
 		
 	}
