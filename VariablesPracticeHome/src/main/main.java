@@ -3,9 +3,9 @@ package main;
 public class main {
 	public static void main(String[] args) {
 		
-		String employeeName="Məlik";
-		System.out.println("employeeName: "+employeeName);
-		
+		int a=5, b=7;
+		System.out.println("a+b="+a+b);
+	
 		
 	}
 }
