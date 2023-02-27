@@ -4,8 +4,8 @@ public class main {
 
 	public static void main(String[] args) {
 		
-		long l=925236354;
-		int s=(int)l;
+		double d=65787.33;
+		int s=(int)d;
         System.out.println(s);
 	}
 
