@@ -4,8 +4,8 @@ public class main {
 
 	public static void main(String[] args) {
 		
-		short s=636;
-		byte b=(byte)s;
+		long l=458;
+		short s=(short)l;
         System.out.println(s);
 	}
 
