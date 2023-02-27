@@ -4,9 +4,9 @@ public class main {
 
 	public static void main(String[] args) {
 		
-		long l=525236353;
-		int a=(int)l;
-        System.out.println(l);
+		double d=5232.6d;
+		float f=(float)d;
+        System.out.println(f);
 	}
 
 }
