@@ -7,7 +7,7 @@ public class main {
 		int i=0;
 		for(i=20;i<=50;i++) 
 		{
-		if(i%2!=0) 
+		if(i%2==0) 
 		  System.out.println(i);
 		}
 }
