@@ -4,9 +4,13 @@ public class main {
 
 	public static void main(String[] args) {
 		
-		int d=266;
-		char s=(char)d;
-        System.out.println(s);
+		int i=0;
+		
+		for(i=15;i<=40;i++)
+		{
+		
+        System.out.println(i);
 	}
-
+		
+}
 }
