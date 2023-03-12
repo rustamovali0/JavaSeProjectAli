@@ -4,15 +4,13 @@ public class Computer {
 
 	
 	int price;
-	int ram;
+	String brand;
+	String model;
+	String color;
+	double weight;
 	
-	public Computer() {
+	public void printComputerInfo() {
 		
-		
-	}
-	 
-	public Computer(int ram) {
-		System.out.println(ram);
 	}
 	
 	
