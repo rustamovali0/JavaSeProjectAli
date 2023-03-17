@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		Computer hp = new Computer(12);
+		//Computer hp = new Computer(12);
 	
 		Computer dell=hp;
 		//Computer dell=new Computer();

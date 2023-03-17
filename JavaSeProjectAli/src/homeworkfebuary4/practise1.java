@@ -1,6 +1,6 @@
 package homeworkfebuary4;
 
-public class tekeded {
+public class practise1 {
 
 	public static void main(String[] args) {
 	

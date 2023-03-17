@@ -1,6 +1,6 @@
 package ders6.praktika;
 
-public class MyCaculator {
+public class MyCalculator {
 
 	int age;
 
