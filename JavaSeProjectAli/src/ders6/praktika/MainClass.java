@@ -10,9 +10,9 @@ public class MainClass {
 		
 		calculator.calculateCircleLenght(2.3);
 
-		//double d=calculator.calculateCircleLenght2(2.3);
+		double d=calculator.calculateCircleLenght2(2.3);
 	
-	//	System.out.println(d);
+		System.out.println(d);
 	}
 
 }
