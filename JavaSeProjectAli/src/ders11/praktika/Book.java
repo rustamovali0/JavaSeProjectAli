@@ -1,4 +1,4 @@
-package ders11.praktika;
+7package ders11.praktika;
 
 public class Book {
 
